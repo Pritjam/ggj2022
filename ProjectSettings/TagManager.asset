@@ -47,6 +47,9 @@ TagManager:
   - name: Blocs
     uniqueID: 2903448145
     locked: 0
+  - name: Characters
+    uniqueID: 2210883675
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
